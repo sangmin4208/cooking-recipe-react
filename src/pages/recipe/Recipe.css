@@ -30,3 +30,15 @@
   text-align: left;
   line-height: 1.5em;
 }
+
+/* dark mode */
+.dark .recipe {
+  background: #555;
+  color: #e4e4e4;
+}
+.dark .recipe .page-title {
+  color: #fff;
+}
+.dark .recipe ul li {
+  color: #bbb;
+}
